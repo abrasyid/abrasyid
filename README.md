@@ -5,7 +5,7 @@ Have a question or want to talk about web development? You can reach me through:
 - 📩Email: abdulrazid608@gmail.com
 - 📌Linkedin: https://www.linkedin.com/in/abdulrasyid7
 
-Language and tools
+Language and tools:
 
 <p align="left" style="display: flex; gap: 4px; margin-top: 10px;">
     <img src="assets/javascript.svg" width="32">
