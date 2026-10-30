@@ -10,14 +10,12 @@ Have a question or want to talk about web development? You can reach me through:
 ### Language and tools
 
 <p align="left" style="display: flex; gap: 4px; margin-top: 10px;">
-    <img src="assets/javascript.svg" width="36">
-    <img src="assets/php.svg" width="36">
-    <img src="assets/tailwindcss.svg" width="36">
-    <img src="assets/bootstrap.svg" width="36">
-    <img src="assets/react.svg" width="36">
-    <img src="assets/laravel.svg" width="36">
-    <img src="assets/mysql.svg" width="36">
-    <img src="assets/git.svg" width="36">
+    <img src="assets/javascript.svg" width="32">
+    <img src="assets/php.svg" width="32">
+    <img src="assets/tailwindcss.svg" width="32">
+    <img src="assets/bootstrap.svg" width="32">
+    <img src="assets/react.svg" width="32">
+    <img src="assets/laravel.svg" width="32">
+    <img src="assets/mysql.svg" width="32">
+    <img src="assets/git.svg" width="32">
 </p>
-
-
